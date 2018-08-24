@@ -5,7 +5,7 @@
     <td class="table-label">Due</td>
   </tr>
  
-{% for item in site.data.calendarFA18 %}
+{% for item in include.calendar %}
   <tr class="feedback-data">
     <td>{{ item.Date }}</td>
     <td>{{ item.Topic }}</td>

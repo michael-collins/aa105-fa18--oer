@@ -1,44 +1,35 @@
 ---
 layout: post
-title: Introduction to Modeling
+title: Introduction to the IDS program
 categories: agenda
 comments: false
-published: true
-excerpt: Introduction to modeling.
+published: false
+excerpt: Introduction to the IDS program
 ---
 
 ### Agenda
 
-1. **Video Screening**
-   - [The Analog and the Digital](https://www.youtube.com/watch?v=Lu5y8SMuzMs)
-   - Ed Catmull and Fred Parke: [A Computer Animated Hand](https://vimeo.com/16292363)
-   - [The Adventures of André & Wally B.](https://www.youtube.com/watch?v=C-L-WA-nQzI), The Graphics Group at Lucasfilm, renamed Pixar, \(1984\)
-   - [3D Portrait](https://www.youtube.com/watch?time_continue=9&v=4GiLAOtjHNo)
-2. [Checkmate Modeling Standard](https://www.turbosquid.com/CheckMate)
-3. **Terminology**
-   - Polygon
-   - Quad
-   - Nurb
-   - nGon
-     - Avoid more than 4 edges to a polygon
-   - Curve
-   - Vertex
-   - Edge
-   - Face
-   - UV
-   - Non-manifold Geometry
-     - Typically causes render and rigging errors
-   - [Platonic Solid](https://www.youtube.com/watch?v=C36h00d7xGs)
-4. **Modeling Demo**
-   - Comonent Editor
-   - Snapping
-   - Extrude
-   - Bevel
-   - [Subdivide](http://youtu.be/mX0NB9IyYpU?t=1m27s)
-   - Quads
-     - Best for rendering, deformation, and general modeling
-   - Instance vs copy
-   - Mirror Geometry
-   - Curve Tool (CV - Control Vertext, EP - Edit Points)
-   - Convert Nurbs to Polygons
-5. Modeling Assignment
+1. **Presentation**
+2. **Syllabus**
+3. What is the structure of the IDS program?
+   - AA105+106: Seminar courses (build portfolio for application)
+   - Digital and traditional art courses within SoVA
+   - AA110 + 210: IDS fundamentals
+   - Collaboration studio project (1 course)
+   - Capstone project (2 courses)
+4. Faculty
+   - Carlos Rosas
+   - Andrew Hieronymi
+   - Eduardo Navas
+   - Tom Lauerman
+4. Social
+   - [LinkedIn](https://www.linkedin.com/groups/7455579/)
+   - [Facebook](https://www.facebook.com/groups/46728725338/)
+5. The field
+   - Design Research, Methods, Thinking
+   - 2D: Concept art for previz, product design, matte painting
+   - 3D: Rapid Prototyping, Illustration, character and environment modeler, Motion design, UI for film and games, commercials, shorts, feature films, installation art, VR/AR narrative, projection mapping
+   - Time based: Post-production (Compositing, Rotoscoping, Colorist), 2D or 3D animator
+   - Interactive: UI/UX for web and apps, physical computing, VR/AR interactive, Game design
+
+
