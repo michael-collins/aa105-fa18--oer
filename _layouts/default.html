@@ -19,12 +19,16 @@
 		  </div>
 		</header>
 
+		{% if page.disable-title == true %}
+		{% else if page.disable-title == false and !=null %}
 		<section class="page-header site-header px2 px-responsive">
-		   <div class="center measure">
-			   <h1 class="page-title">{{ page.title }}</h1>
-			   <h2 class="page-subtitle">{{ page.subtitle }}</h2>
-			</div>
-		</section>
+			<div class="measure">
+				<h1 class="page-title upper">{{ page.title }}</h1>
+				<h2 class="page-subtitle">{{ page.subtitle }}</h2>
+			 </div>
+		 </section>
+		{% endif %}
+		
 
 		<section class="main-content p2 p-responsive wrap">
 		   <div class="measure">
