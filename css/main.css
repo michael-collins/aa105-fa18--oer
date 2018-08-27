@@ -116,6 +116,13 @@ span.post-type {
 	padding-bottom: 1em;
 }
 .schedule-post-links a {
-		margin-right:10px;
-		margin-left: 5px;
+	margin-right:10px;
+	margin-left: 5px;
+}
+ul:not(.browser-default)>li {
+	list-style-type: inherit;
+	margin-left:20px;
+}
+ul:not(.browser-default) {
+	list-style-type: inherit;
 }
