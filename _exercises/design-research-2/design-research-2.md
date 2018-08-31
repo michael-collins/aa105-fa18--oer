@@ -5,8 +5,6 @@ layout: exercise
 submission-id: exercise1-doc-YOURNAME
 asset-path: /assets/exercise-images
 exercise: exercise-1
-# Configure canvas urls in config.yml
-## Create groups of 3-4 people in canvas
 groups-link: https://psu.instructure.com/courses/1913414/groups#tab-100810
 ---
 
@@ -16,7 +14,7 @@ In this exercise, you will perform field research, draw insights, and describe a
 1. Observe and make note of the local designed environment. Keep a small notebook with you as you move through your day (I recommend [Field Notes](https://fieldnotesbrand.com/products/original-kraft) or [Moleskine](https://us.moleskine.com/cahier-journal-grey/p0409)) and write down or sketch out anything that feels poorly designed, broken, non-functional, ill-considered, potentially harmful, or something that could be better. Remember to also record your own personal feelings, state of mind, physical limitations or conditions, and other information that can help desribe your negative experience and why it may have occured. 
 2. Place your observation documentation into a **Research Folder**: Document your experiences from step 1 with photos, short videos, sketches, diagrams, schematics, notes, and/or drawings.
 3. Choose **one** experience to focus on from your notes.
-4. Look at the following design thinking exercises. Meet with your canvas group and work through these activities for each person's experience. Each person should come away with a set of insights and one HMW question: [Canvas groups]({{site.canvas-base}}{{site.canvas-num}}/groups)
+4. Look at the following design thinking exercises. Meet with your canvas group and work through these activities for each person's experience. Each person should come away with a set of insights and one HMW question: [Canvas groups]({{ page.groups-link }})
    - [Insights](http://www.designkit.org/methods/62)
    - [How Might We](http://www.designkit.org/methods/3)
 5. **Doc**: In a MS word document named: `{{ page.submission-id }}.doc` Each person must have their own document.

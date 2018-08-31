@@ -13,6 +13,15 @@ plugins:
 # Github links
 github-repo: https://github.com/michael-collins/aa105-fa18--oer
 #directoy config ########################################
+#
+# CANVAS COURSE NUMBER
+# Example Num: https://psu.instructure.com/courses/#######/users
+# _______________________________________________^
+# {{site.canvas-base}}{{site.canvas-num}}/users
+canvas-num: 1913414
+canvas-base: https://psu.instructure.com/courses/
+#
+#
 #collections_dir: all_collections
 collections:
   agenda:
@@ -44,10 +53,11 @@ assignments:
     title: Exercise 1
     doc: /exercises/design-research.html
   exercise-2:
-    due-date: 2:30pm on January 16, 2018
+    due-date: 2:30pm on Sept 7, 2018
+    due-date-iso: '2018-09-07T06:30:00+00:00'
     dropbox-url: https://psu.box.com/v/art314sp18-exercise-2
     title: Exercise 2
-    doc: /exercises/maya-modeling.html
+    doc: /exercises/design-development.html
   exercise-3:
     due-date: 2:30pm on January 23, 2018
     dropbox-url: https://psu.box.com/v/art314sp18-exercise-3
