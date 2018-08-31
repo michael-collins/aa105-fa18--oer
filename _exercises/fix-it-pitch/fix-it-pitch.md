@@ -3,9 +3,8 @@ title: Fix it!
 subtitle:
 layout: exercise
 submission-id: exercise1-doc-YOURNAME
-asset-path: /assets/exercise-images
+asset-path: /assets/exercise-downloads
 exercise: exercise-2
-topic-link: 
 ---
 
 In the exercise, you will use the HMW question from the previous exercise, your field research, and the Brainwriting exercise conducted in class to create a **project pitch**. In the design world, this can be one of the most important documents that you will make, and so it's important that it is as well presented as possible.
@@ -26,7 +25,7 @@ For this project, you will create a PDF document that has the following:
   - Any drawings should be scanned in so they are as presentable as possible.
   - If your solution is not an object, app, or tangible thing, you can draw diagrams or other visuals to help communicate your ideas.
 6. Ideation
-  - Scan in the Brainwriting sheet and include at the end of the document
+  - Scan in the [Brain Writing Canvas]({{ site.baseurl }}{{page.asset-path}}/brainwriting-canvas.pdf) and include at the end of the document
 
 ## Instructions
 1. Complete the pitch document in MS Word, Google Docs, or other word processing or layout software. Please properly format this document using headings and subheadings.
