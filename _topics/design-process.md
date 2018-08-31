@@ -7,6 +7,10 @@ tags: design
 ---
 A design process is one of the most fundamental design concepts you will learn. Whether you are making art, an animation, or designing solutions to big social problems, you will need a process.
 
+![Double Diamond Process]({{site.baseurl}}/{{page.asset-path}}/double-diamond-design-process-1200px@2x.png)
+
+[Source](https://dmd-program.gitbooks.io/dmd-100-su18/content/topics/design-process.html) 
+
 **Question 1: What is a design process?**
 
 **Answer:**
@@ -33,8 +37,3 @@ I'm glad you asked. A good process...
 4. helps designers define problems and opportunities;
 5. results in positive outcomes.
 
----
-
-## Example Design Process
-
-![Double Diamond Process]({{page.asset-path}}/double-diamond-design-process-1200px@2x.png)
