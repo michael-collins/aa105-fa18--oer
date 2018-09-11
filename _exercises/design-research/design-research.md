@@ -7,7 +7,6 @@ asset-path: /assets/exercise-images
 exercise: exercise-1
 # Configure canvas urls in config.yml
 ## Create groups of 3-4 people in canvas
-groups-link: https://psu.instructure.com/courses/1913414/groups#tab-100810
 ---
 
 In this exercise, you will perform field research, draw insights, and describe a problem in the form of a question.
