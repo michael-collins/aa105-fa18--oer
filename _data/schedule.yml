@@ -1,0 +1,193 @@
+# Schedule
+- week 1:
+  posted-date: 8/24/2018
+  guest-speaker:
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: course-intro # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 2: 
+  posted-date: 8/31/2018
+  guest-speaker: 
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 3: 
+  posted-date: 9/7/2018
+  guest-speaker: 
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 4: 
+  posted-date: 9/14/2018
+  guest-speaker: 
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 5:
+  posted-date: 9/21/2018
+  guest-speaker: 
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 6:
+  posted-date: 9/28/2018
+  guest-speaker: Aaron
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 7:
+  posted-date: 10/05/2018
+  guest-speaker: Carlos
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 8:
+  posted-date: 10/12/2018
+  guest-speaker: Tom
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 9:
+  posted-date: 10/19/2018
+  guest-speaker: Eduardo
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 10:
+  posted-date: 10/26/2018
+  guest-speaker: Andrew
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 11:
+  posted-date: 11/02/2018
+  guest-speaker: Jamie H.
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 12:
+  posted-date: 11/09/2018
+  guest-speaker: 
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 13:
+  posted-date: 11/16/2018
+  guest-speaker: 
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 14:
+  posted-date: 11/23/2018
+  guest-speaker: 
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 15:
+  posted-date: 11/30/2018
+  guest-speaker: 
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true
+- week 16:
+  posted-date: 12/7/2018
+  guest-speaker: 
+  instructor: Michael Collins
+  published: true
+  supporting-materials:
+    - assignment: assignemnt-id
+      assignment-published: true
+    - agenda: agenda-id # material ID
+      agenda-published: true
+    - presentation: presenation-id
+      presenation-published: true

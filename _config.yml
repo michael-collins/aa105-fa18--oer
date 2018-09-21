@@ -58,6 +58,12 @@ assignments:
     dropbox-url: https://psu.instructure.com/courses/1913414/assignments/10361857
     title: Exercise 2
     doc: /exercises/fix-it-pitch.html
+  exercise-3:
+    due-date: 2:30pm on Sept 28, 2018
+    due-date-iso: '2018-09-28T06:30:00+00:00'
+    dropbox-url: https://psu.instructure.com/courses/1913414/assignments/10393768
+    title: Exercise 3
+    doc: /exercises/3d-environment-design.html
   project-1:
     doc: /projects/2d-poster-project.html
     due-date: 2:30pm on Sept 21, 2018
