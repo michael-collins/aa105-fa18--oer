@@ -29,7 +29,7 @@ In the exercise, we will use SketchUp to design a "to scale" environment and upl
 1. Develop ideas and do some research into other living spaces. Think about the types of things that you need and want to do to support your quality of living and how you might accomplish them in the space.
 2. Model your ideal living space in SketchUp.
 3. Create a SketchFab account.
-4. Export SketchUp to OBJ format.
+4. Export SketchUp to 3D Model --> OBJ format. \(Note: Enable "Triangulate all faces" in **OBJ Options** before clicking 'Export'\)
 5. Upload the **model and materials** to SketchFab. Read through upload instructions in the learning resources if you have any issues.
 6. Post a link on the Canvas discussion thread to your SketchFab model.
 7. Upload a zip file of your SketchUp project folder to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }}).
