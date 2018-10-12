@@ -35,6 +35,7 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 
 1. Create all work in the 2D game yourself, do not download or trace other artwork.
 2. Game must be comprised of an animated sprite character, a must have elements 
+3. Min of 8 poses in the walk cycle: Contact, up, passsing, and down for both left and right.
 
 
 ## Instructions
