@@ -70,6 +70,12 @@ assignments:
     due-date-iso: '2018-09-21T06:30:00+00:00'
     dropbox-url: https://psu.instructure.com/courses/1913414/assignments/10347035
     title: Project 1
+  project-2:
+    doc: /projects/platformer-game.html
+    due-date: 2:30pm on Nov. 9, 2018
+    due-date-iso: '2018-11-09T06:30:00+00:00'
+    dropbox-url: https://psu.instructure.com/courses/1913414/assignments/10347037
+    title: Project 2
     
   
   # - exercise: maya-modeling-image-planes

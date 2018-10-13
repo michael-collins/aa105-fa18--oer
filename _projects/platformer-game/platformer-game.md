@@ -35,19 +35,21 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 
 1. Create all work in the 2D game yourself, do not download or trace other artwork.
 2. Game must be comprised of an animated sprite character, a must have elements 
-3. Min of 8 poses in the walk cycle: Contact, up, passsing, and down for both left and right.
+3. Sprite Sheet: Min of 8 poses in the walk cycle: Contact, up, passsing, and down for both left and right.
 
+## Due dates:
+
+- **Oct 19 at 2:30pm:** Project concept
+- **Oct 19 at 2:30pm:** Sprite Sheet
+- **Oct 26 at 2:30pm:** Environment Assets
+- **Nov 2 at 2:30pm:** Functional Unity project proof
+- **Nov. 9 at 2:30pm:** Finished Game 
 
 ## Instructions
 
-Due dates:
-
-- Oct 19, Sprite Sheet
-- Oct 26: Environment Assets
-- Nov 2: Functional Unity project proof
-- Nov. 9th: Finished Game 
-
 1. Identify a the book or story you are basing your platformer on.
-2. Produce a sprite sheet of a character using Photoshop.
+2. Produce a sprite sheet of a character using Photoshop
 3. Upload PSD character sprite sheet to Canvas.
-4. Upload a video (captured with Quicktime) of your Unity project
+4. Upload PSD environment assets.
+5. Upload a video (captured with Quicktime) of your Unity project
+6. Upload Zipped Unity project file.
