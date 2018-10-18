@@ -39,28 +39,33 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 ## Requirements
 
 1. Create all work in the 2D game yourself, do not download or trace other artwork.
-2. Game must be comprised of an animated sprite character. Character can be about anything.
-3. Sprite Sheet: Min of 8 poses in the walk cycle: Contact, up, passsing, and down for both left and right.
+2. Game must be comprised of an animated sprite character. The character does not have to be human.
+3. Sprite Sheet: Min of 4 poses in the walk cycle: Contact, up, passsing, and down in the 'right' \(-->\) direction.
 
 ## Due dates:
 
-- **Oct 19 at 2:30pm:** [Project concept](https://psu.instructure.com/courses/1913414/assignments/10430505)
-- **Oct 19 at 2:30pm:** [Sprite Sheet dropbox](https://psu.instructure.com/courses/1913414/assignments/10427548)
-- **Oct 26 at 2:30pm:** [Environment Assets dropbox](https://psu.instructure.com/courses/1913414/assignments/10430256)
-- **Nov 2 at 2:30pm:** [Functional Unity project proof (video)](https://psu.instructure.com/courses/1913414/assignments/10430362)
-- **Nov. 9 at 2:30pm:** [Finished Game](https://psu.instructure.com/courses/1913414/assignments/10347037) 
+- **Oct 19 at 2:30pm:** [Project concept Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430505)
+- **Oct 19 at 2:30pm:** [Sprite Sheet Dropbox](https://psu.instructure.com/courses/1913414/assignments/10427548)
+- **Oct 26 at 2:30pm:** [Environment Assets Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430256)
+- **Nov 2 at 2:30pm:** [Functional Unity Project Proof (video) Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430362)
+- **Nov. 9 at 2:30pm:** [Finished Game Dropbox](https://psu.instructure.com/courses/1913414/assignments/10347037) 
 
 ## Instructions
 
 1. Watch learning resources for building a 2D Unity game and assets.
 1. Identify a project concept based on a fictional book, or story, or a wicked problem currently affecting the world.
    - Submit in .txt or .doc format
+   - [Project concept Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430505)
 2. Produce a sprite sheet of a character walk cycle using Photoshop
    - Minimum 4 poses (contact, passing, contact, passing). Can have more than 4, see videos in learning resources.
    - Upload PSD character sprite sheet to Canvas.
+   - [Sprite Sheet Dropbox](https://psu.instructure.com/courses/1913414/assignments/10427548)
 4. Produce a sprite sheet of environment assets using Photoshop
    - Upload PSD environment assets to Canvas.
+   - [Environment Assets Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430256)
 5. Upload a video (captured with Quicktime) of your Unity project
    - Create a Quicktime video screen capture working game prototype. (Character walk cycle moving across environment asset)
+   - [Functional Unity Project Proof (video) Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430362)
 6. Upload Zipped Unity project file.
    - Zip file that includes an executable
+   - [Finished Game Dropbox](https://psu.instructure.com/courses/1913414/assignments/10347037)
