@@ -4,6 +4,7 @@ subtitle:
 layout: project
 submission-id: YOURNAME-game-project
 asset-path: /assets/exercise-images
+asset-downloads: /assets/exercise-downloads
 project: project-2
 ---
 ## Description
@@ -42,6 +43,48 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 2. Game must be comprised of an animated sprite character. The character does not have to be human.
 3. Sprite Sheet: Min of 4 poses in the walk cycle: Contact, up, passsing, and down in the 'right' \(-->\) direction.
 
+## Tutorial
+
+### Set up character move and jump:
+
+[Unity Downloads]({{site.baseurl}}{{page.asset-downloads}}/unity-demo.zip)
+
+1. Create 2D Unity project.
+2. Drag character 'walk cycle' and "environment" PSD sprites files.
+3. Drag the walk cycle sprite file to the scene **Hierarchy** tab and open **Sprite Editor.**
+4. Click on **slice** in top left. Choose automatic or use the cell size you’ve previously prepared (34px in this example). This will create an animated sprite in your assets tab.
+5. Set the size of the sprite (34 pixels in my case).
+6. Create a Create GameObject -> EmptyChild in the Hierarchy and rename to **player.**
+7. Drag the sprite walk sequence object onto the Hierarchy, parented to the the player object
+7. Select the player --> Add a **Box Collider 2d.**
+8. Scale the box to fit over the top half of the sprite
+9. With player selected, Add a **Circle Collider 2d,** scale to fit below the box covering the bottom of the sprite
+10. With player selected, Add **rigidbody 2D.**
+    - Check lock rotation under constraints
+11. Create GameObject -> EmptyChild and parent this to the player.
+12. Rename to **GroundCheck** and reposition at bottom of character sprite (click on icon to add a color)
+13. Drag in player_move script to the GroundCheck slot.
+14. With the player object selected, at the top choose layer and add two layers (“Player”, “Ground”, and "Background").
+15. Set character and children to “Player”
+16. Set the ground assets objects to “Ground” and the background assets to the "Background" layer. Change order to -1 or higher to move objects visibly below the player.
+17. Add player jump script to the player object
+18. Drag GroundCheck into groundCheck slot on the script.
+    - Set ground as everything, then uncheck Player
+
+### Set up camera
+
+1. open/import 2d standard assets.
+2. drag camera2Dfollow script onto camera
+3. drag player into target field of script
+
+### Video Resources
+
+- [moving script](https://www.youtube.com/watch?v=Rr4sE_A_E-Q)
+- [flip left and right script](https://www.youtube.com/watch?v=y7IJsnKR120)
+- [jump script](https://www.youtube.com/watch?v=Kvje4xqB258)
+- [adding audio](https://www.youtube.com/watch?v=egxNXuwf0_g)
+
+
 ## Due dates:
 
 - **Oct 19 at 2:30pm:** [Project concept Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430505)
@@ -50,7 +93,7 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 - **Nov 2 at 2:30pm:** [Functional Unity Project Proof (video) Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430362)
 - **Nov. 9 at 2:30pm:** [Finished Game Dropbox](https://psu.instructure.com/courses/1913414/assignments/10347037) 
 
-## Instructions
+## Submission Instructions
 
 1. Watch learning resources for building a 2D Unity game and assets.
 1. Identify a project concept based on a fictional book, or story, or a wicked problem currently affecting the world.
