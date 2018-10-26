@@ -55,7 +55,7 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 
 
 1. Create 2D Unity project.
-2. Import [2D Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351) into your Unity file. Only the **2D** assets are needed.
+2. Import [2D Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351) into your Unity file. Only the **Standard** assets are needed.
 2. Drag character 'walk cycle' and "environment" PSD sprites files.
 3. Drag the walk cycle sprite file to the scene **Hierarchy** tab.
 4. With the object selected in the assets view, Select **multiple** from the Sprite Mode and then open the **sprite editor.**
