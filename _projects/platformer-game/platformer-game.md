@@ -47,7 +47,8 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 
 ### Set up character move and jump:
 
-[Unity Downloads]({{site.baseurl}}{{page.asset-downloads}}/unity-demo.zip)
+#### [Unity Downloads]({{site.baseurl}}{{page.asset-downloads}}/unity-demo.zip)
+#### [Example scene configuration images]({{site.baseurl}}{{page.asset-downloads}}/unity-scene-setup.zip)
 
 1. Create 2D Unity project.
 2. Drag character 'walk cycle' and "environment" PSD sprites files.
@@ -56,31 +57,29 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 5. Click on **slice** in top left. Choose automatic or use the cell size you’ve previously prepared (34px in this example). This will create an animated sprite in your assets tab.
 6. Set the size of the sprite (34 pixels in my case).
 7. Create a Create GameObject -> EmptyChild in the Hierarchy and rename to **player.**
-8. Drag the sprite walk sequence object onto the player object in the Hierarchy so it is parented to the the player object.
-9. Select the player --> Add a **Box Collider 2d.**
+8. Drag the sprite walk sequence object onto the player object in the Hierarchy so it is parented to the the player object. Rename to **playerWalking**.
+9. Select the player --> Add Component and choose **Box Collider 2d.**
 10. Scale the box to fit over the top half of the sprite
 11. With player selected, Add a **Circle Collider 2d,** scale to fit below the box covering the bottom of the sprite
 12. With player selected, Add **rigidbody 2D.**
     - Check lock rotation under constraints
 13. Create GameObject -> EmptyChild and parent this to the player object.
 14. Rename to **GroundCheck** and reposition at bottom of character sprite (click on icon to add a color)
-15. Add "player_jump" script to the player object.
-16. Drag groundCheck from Scene Hierarchy to **jump script** slot called "GroundCheck" to connect them.
-17. On player_script properties, set ground as **everything,** then **uncheck "Player."** It should now say "Mixed.
+15. Add **player_jump**"** script to the player object.
+16. Drag **groundCheck** from Scene Hierarchy to **player_jump** slot called "GroundCheck" to connect them.
+17. On **player_jump** script properties, set ground as **everything,** and then **uncheck "Player."** It should now say **Mixed.**
 18. With the player object selected, at the top choose layer and add two layers (“Player”, “Ground”, and "Background").
-19. Set character and children to “Player” layer (located at the top of the object properties).
+19. Set the character and children to “Player” layer (located at the top of the object properties).
 20. Add a ground sprite to the scene.
 21. Add a **box collider 2d** component to the ground object.
-22. Set the ground assets objects to “Ground” and the background assets to the "Background" layer. Change order to -1 or higher to move objects visibly below the player.
-23. Add player jump script to the player object
-24. Drag GroundCheck into groundCheck slot on the script.
-25. Adjust the framing of the game by adjusting main camera size. This is dependent.
+22. Set the ground assets objects to “Ground” and the background assets to the "Background" layer. Change **Order in Layer** to -1 or higher to move objects visibly below the player.
+23. Adjust the framing of the game by adjusting main camera size. This is dependent.
 
 #### Adding Animation to sprite 
 
-1. Select parented player walk cycle (not the player object istelf) object in hierarchy. 
+1. Select parented **playerWalking** object (not the **player** object) object in hierarchy. 
 2. Add a new **animator** component
-3. Drag the player_animation script to this object
+3. Drag the **player_animation** script to this object
 4. Open the animation window (Window -> Animation)
 5. In Animation window, click "Create new"
 6. Unfurl the walk cycle in the assets window, and select all walk cycle sprites. Drag them into the animation window
