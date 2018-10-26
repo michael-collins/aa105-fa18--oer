@@ -41,7 +41,7 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 
 1. Create all work in the 2D game yourself, do not download or trace other artwork.
 2. Game must be comprised of an animated sprite character. The character does not have to be human.
-3. Sprite Sheet: Min of 4 poses in the walk cycle: Contact, up, passsing, and down in the 'right' \(-->\) direction.
+3. Sprite Sheet: Min of 4 poses in the walk cycle: Contact, up, passsing, and down in the 'right' \(→\) direction.
 
 ## Tutorial
 
@@ -56,14 +56,14 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 4. With the object selected in the assets view, Select **multiple** from the Sprite Mode and then open the **sprite editor.**
 5. Click on **slice** in top left. Choose automatic or use the cell size you’ve previously prepared (34px in this example). This will create an animated sprite in your assets tab.
 6. Set the size of the sprite (34 pixels in my case).
-7. Create a Create GameObject -> EmptyChild in the Hierarchy and rename to **player.**
+7. Create a Create GameObject → EmptyChild in the Hierarchy and rename to **player.**
 8. Drag the sprite walk sequence object onto the player object in the Hierarchy so it is parented to the the player object. Rename to **playerWalking**.
-9. Select the player --> Add Component and choose **Box Collider 2d.**
+9. Select the player → Add Component and choose **Box Collider 2d.**
 10. Scale the box to fit over the top half of the sprite
 11. With player selected, Add a **Circle Collider 2d,** scale to fit below the box covering the bottom of the sprite
 12. With player selected, Add **rigidbody 2D.**
     - Check lock rotation under constraints
-13. Create GameObject -> EmptyChild and parent this to the player object.
+13. Create GameObject → EmptyChild and parent this to the player object.
 14. Rename to **GroundCheck** and reposition at bottom of character sprite (click on icon to add a color)
 15. Add **player_jump**"** script to the player object.
 16. Drag **groundCheck** from Scene Hierarchy to **player_jump** slot called "GroundCheck" to connect them.
@@ -80,21 +80,21 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 1. Select parented **playerWalking** object (not the **player** object) object in hierarchy. 
 2. Add a new **animator** component
 3. Drag the **player_animation** script to this object
-4. Open the animation window (Window -> Animation)
+4. Open the animation window (Window → Animation)
 5. In Animation window, click "Create new"
 6. Unfurl the walk cycle in the assets window, and select all walk cycle sprites. Drag them into the animation window
 7. Change player animation samples to match your walk cycle and move speed  (between 8 to 24 ish)
 
 #### Adding audio 
 
-1. Create audio source object (Right click, Audio -> Audio Source) to the hierarchy.
+1. Create audio source object (Right click, Audio → Audio Source) to the hierarchy.
 2. Drag **audio_script** from assets onto AudioSource object in the hierarchy.
 3. Drag the mp3 or other formatted audio file from assets into **music clip** slot.
 4. Drag the "AudioSource" object from hierarchy into **music source** slot.
 
 #### Building
-1. Export to a MacOS File by choosing: File -> Build settings
-2. Choose  -> macos -> ensure scene is added to the build
+1. Export to a MacOS File by choosing: File → Build settings
+2. Choose  → macos → ensure scene is added to the build
 
 ### Set up camera
 
