@@ -47,10 +47,15 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 
 ### Set up character move and jump:
 
-#### [Unity Downloads]({{site.baseurl}}{{page.asset-downloads}}/unity-demo.zip)
-#### [Example scene configuration images]({{site.baseurl}}{{page.asset-downloads}}/unity-scene-setup.zip)
+**Downloads:**
+
+- [2D Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351)
+- [Unity Downloads]({{site.baseurl}}{{page.asset-downloads}}/unity-demo.zip)
+- [Example scene configuration images]({{site.baseurl}}{{page.asset-downloads}}/unity-scene-setup.zip)
+
 
 1. Create 2D Unity project.
+2. Important [2D Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351).
 2. Drag character 'walk cycle' and "environment" PSD sprites files.
 3. Drag the walk cycle sprite file to the scene **Hierarchy** tab.
 4. With the object selected in the assets view, Select **multiple** from the Sprite Mode and then open the **sprite editor.**
