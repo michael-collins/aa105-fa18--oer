@@ -56,24 +56,24 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 
 1. Create 2D Unity project.
 2. Import [2D Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351) into your Unity file. Only the **Standard** assets are needed.
-2. Drag character 'walk cycle' and "environment" PSD sprites files.
+2. Drag character 'walk cycle' and "environment" PSD sprites files. **\(Note: If you are getting white outlines around your sprites, use PNG file format instead of PSD.\)**
 3. Drag the walk cycle sprite file to the scene **Hierarchy** tab.
 4. With the object selected in the assets view, Select **multiple** from the Sprite Mode and then open the **sprite editor.**
 5. Click on **slice** in top left. Choose automatic or use the cell size you’ve previously prepared (34px in this example). This will create an animated sprite in your assets tab.
 6. Set the size of the sprite (34 pixels in my case).
-7. Create a Create GameObject → EmptyChild in the Hierarchy and rename to **player.**
-8. Drag the sprite walk sequence object onto the player object in the Hierarchy so it is parented to the the player object. Rename to **playerWalking**.
-9. Select the player → Add Component and choose **Box Collider 2d.**
+7. Create a **GameObject** → **EmptyChild** in the Hierarchy and rename to **player.**
+8. Drag the sprite walk sequence object onto the _**player**_ object in the Hierarchy so it is parented to the the _**player**_ object. Rename the sprite to **playerWalking**.
+9. Select the _**player**_ object → Add Component and choose **Box Collider 2d.**
 10. Scale the box to fit over the top half of the sprite
 11. With player selected, Add a **Circle Collider 2d,** scale to fit below the box covering the bottom of the sprite
 12. With player selected, Add **rigidbody 2D.**
-    - Check lock rotation under constraints
-13. Create GameObject → EmptyChild and parent this to the player object.
+    - Check **lock rotation** under constraints
+13. Create **GameObject** → **EmptyChild** and parent this to the _**player**_ object.
 14. Rename to **GroundCheck** and reposition at bottom of character sprite (click on icon to add a color)
-15. Add **player_jump**"** script to the player object.
-16. Drag **groundCheck** from Scene Hierarchy to **player_jump** slot called "GroundCheck" to connect them.
+15. Add **player_jump**"** script to the _**player**_ object.
+16. Drag **groundCheck** from Scene Hierarchy to **player_jump** slot called **GroundCheck** to connect them.
 17. On **player_jump** script properties, set ground as **everything,** and then **uncheck "Player."** It should now say **Mixed.**
-18. With the player object selected, at the top choose layer and add two layers (“Player”, “Ground”, and "Background").
+18. With the _**player**_ object selected, at the top choose layer and add two layers (“Player”, “Ground”, and "Background").
 19. Set the character and children to “Player” layer (located at the top of the object properties).
 20. Add a ground sprite to the scene.
 21. Add a **box collider 2d** component to the ground object.
@@ -138,6 +138,7 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
    - [Environment Assets Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430256)
 5. Upload a video (captured with Quicktime) of your Unity project
    - Create a Quicktime video screen capture working game prototype. (Character walk cycle moving across environment asset)
+      - File → New Screen Recording. Click record, select a record area, and click stop when done. Save as a `.mov` file.
    - [Functional Unity Project Proof (video) Dropbox](https://psu.instructure.com/courses/1913414/assignments/10430362)
 6. Upload Zipped Unity project file.
    - Zip file that includes an executable
