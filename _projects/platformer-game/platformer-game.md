@@ -64,13 +64,14 @@ In the project, we will use Photoshop and Unity as tools to respond to either: (
 7. Create a **GameObject** → **EmptyChild** in the Hierarchy and rename to **player.**
 8. Drag the sprite walk sequence object onto the _**player**_ object in the Hierarchy so it is parented to the the _**player**_ object. Rename the sprite to **playerWalking**.
 9. Select the _**player**_ object → Add Component and choose **Box Collider 2d.**
-10. Scale the box to fit over the top half of the sprite
+10. Scale the box to fit over the top half of the sprite.
 11. With player selected, Add a **Circle Collider 2d,** scale to fit below the box covering the bottom of the sprite
 12. With player selected, Add **rigidbody 2D.**
     - Check **lock rotation** under constraints
 13. Create **GameObject** → **EmptyChild** and parent this to the _**player**_ object.
 14. Rename to **GroundCheck** and reposition at bottom of character sprite (click on icon to add a color)
-15. Add **player_jump**"** script to the _**player**_ object.
+15. Add **player_move**"** script to the _**player**_ object.
+16. Add **player_jump**"** script to the _**player**_ object.
 16. Drag **groundCheck** from Scene Hierarchy to **player_jump** slot called **GroundCheck** to connect them.
 17. On **player_jump** script properties, set ground as **everything,** and then **uncheck "Player."** It should now say **Mixed.**
 18. With the _**player**_ object selected, at the top choose layer and add two layers (“Player”, “Ground”, and "Background").
