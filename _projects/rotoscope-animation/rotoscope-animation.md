@@ -31,8 +31,8 @@ Some things you may be interested in creating as loops might include animal loco
 
 **Lynda:**
 
--[Motion Graphics Loops with After Effects](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-02-After-Effects-Techniques/483235-2.html?org=psu.edu)
--[Rigging a character arm](https://www.lynda.com/After-Effects-tutorials/After-Effects-Rigging-Character-Arm-Animation/97581-2.html?org=psu.edu)
+- [Motion Graphics Loops with After Effects](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-02-After-Effects-Techniques/483235-2.html?org=psu.edu)
+- [Rigging a character arm](https://www.lynda.com/After-Effects-tutorials/After-Effects-Rigging-Character-Arm-Animation/97581-2.html?org=psu.edu)
 - [After Effects: Principles of Motion Graphics](http://www.lynda.com/After-Effects-CS5-tutorials/creating-motion-graphics/74684-2.html?org=psu.edu)
 
 **Tutorials on the Web:**
@@ -44,7 +44,8 @@ Some things you may be interested in creating as loops might include animal loco
 
 **Reference:**
 
-- Collection of Eadweard Muybridge works: [Eadweard Muybridge Online Archive](http://www.muybridge.org/), [Excerpt from Fog City Mavericks](https://vimeo.com/8082912)
+- Collection of Eadweard Muybridge works: [Eadweard Muybridge Online Archive](http://www.muybridge.org/)
+- [Excerpt from Fog City Mavericks](https://vimeo.com/8082912)
 - Download Tool for Vimeo and Youtube reference videos: [https://savieo.com](https://savieo.com)
 - [Reference video](https://vimeo.com/groups/aniref)
 
