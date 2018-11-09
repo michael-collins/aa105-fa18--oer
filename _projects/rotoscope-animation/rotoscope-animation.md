@@ -7,7 +7,7 @@ asset-path: /assets/exercise-images
 asset-downloads: /assets/exercise-downloads
 project: project-3
 ---
-## Rotoscope Animation
+## Description
 
 For this project, you will create a looping animation that is 1 minute length based on found reference footage. You will practice an animation technique called rotoscoping, where the original footage is traced to capture form, movement, and other attributes. It is only necessary to capture the gesture of the original footage with your animation, you do not need to capture the complex forms, colors, and textures present in the original footage. You can combine other animation and post-production techniques to give your work as much visual complexity as you like.
 
