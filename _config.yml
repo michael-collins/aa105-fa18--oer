@@ -76,7 +76,12 @@ assignments:
     due-date-iso: '2018-11-09T06:30:00+00:00'
     dropbox-url: https://psu.instructure.com/courses/1913414/assignments/10347037
     title: Project 2
-    
+  project-3:
+    doc: /projects/rotoscope-animation.html
+    due-date: 2:30pm on Nov. 30, 2018
+    due-date-iso: '2018-11-30T06:30:00+00:00'
+    dropbox-url: https://psu.instructure.com/courses/1913414/assignments/10347040
+    title: Project 3
   
   # - exercise: maya-modeling-image-planes
   #   title: Intro to Modeling in Maya
