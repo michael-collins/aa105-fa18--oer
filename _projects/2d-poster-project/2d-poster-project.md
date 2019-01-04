@@ -6,7 +6,13 @@ project: project-1
 submission-id: 2dposter-YOURNAME
 ---
 
-In this exercise, you will create a 2D low-poly poster using Adobe Illustrator and Adobe Photoshop. You will practice using composition, color theory, and typography to convey meaning.
+In this project, you will create a 2D low-poly poster using Adobe Illustrator and Adobe Photoshop. You will practice using composition, color theory, and typography to convey meaning.
+
+## Learning Resources
+
+1. Create "low-poly" style using Adobe Illustrator
+2. Import vector artwork into Photoshop to create a final composite image
+3. You must make all visual elements.
 
 ## Learning Resources
 
@@ -33,7 +39,8 @@ In this exercise, you will create a 2D low-poly poster using Adobe Illustrator a
 9. Save your Illustrator file as **_{{ page.submission-id }}.ai_** in the project folder.
 10. Save your Photoshop file as **_{{ page.submission-id }}.psd_** in the project folder.
 11. Save your JPG file as **_{{ page.submission-id }}.jpg_** in the project folder.
-12. Double check naming conventions.
-13. Compress(zip) the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}.zip_**
-14. Upload the **_{{ page.submission-id }}.zip_** to the [Project 1 Dropbox]({{ site.assignments.[page.project].dropbox-url }}).
-15. Failure to ensure that you’ve uploaded all relevant assets will result in your exercise being graded as an incomplete or late submission. Please review that you have included all desired files listed in the Steps to Completion.
+12. Inlcude screenshot or scanned image of the article.
+13. Double check naming conventions.
+14. Compress(zip) the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}.zip_**
+15. Upload the **_{{ page.submission-id }}.zip_** to the [Project 1 Dropbox]({{ site.assignments.[page.project].dropbox-url }}).
+16. Failure to ensure that you’ve uploaded all relevant assets will result in your exercise being graded as an incomplete or late submission. Please review that you have included all desired files listed in the Steps to Completion.
